@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c60a023-72d3-4a60-9b5e-7974768454c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SGE_ejercicios_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjecEjerT4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosT4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SGE_ejercicios_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SGE_ejercicios_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ntorrecillas10"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ntorrecillas10/EjerciciosPython.git",
+    "accountId": "f7ac5488-c7aa-45aa-936c-7539cae42f47"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -41,12 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.EjecEjerT4.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.ejercicio1.executor": "Run",
     "Python.ejercicio2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/EAG/PycharmProjects/SGE_ejercicios_python"
+    "last_opened_file_path": "C:/Users/EAG/PycharmProjects/SGE_ejercicios_python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
